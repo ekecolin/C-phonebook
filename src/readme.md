@@ -1,6 +1,7 @@
 Welcome to the manual page of the 'Phonebook Application' 
 
 ------DESCRIPTION------
+
 This inner shell is written in C programming language. This is the user manual in which will guide you on how to use this shell correctly.
 When the shell program starts you are greeted and introduced into the shell before you proceed using the shell program.
 
