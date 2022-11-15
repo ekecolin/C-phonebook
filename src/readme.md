@@ -21,5 +21,4 @@ When the shell program starts you are greeted and introduced into the shell befo
 6. Quit Program - 'Press 6' - You are able to leave the program
 
 ------HOW TO RUN THE C PROGRAM------
-1. type 'gcc cbook.c -o cbook.c'
-2. Then type './cbook.c'
+1. Type './cbook'
